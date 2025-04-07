@@ -32,5 +32,4 @@ O objetivo do projeto foi praticar conceitos de programação orientada a objeto
 ---
 
 ## 🚀 Como executar o projeto
-
-1. Clone o repositório:
+Clone o repositório: https://github.com/Gabrielvl16/Calculadora
